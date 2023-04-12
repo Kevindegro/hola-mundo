@@ -2,9 +2,9 @@
 
 ## Hola Mundo en 5 lenguajes diferentes
 
--(c)
--(js)
--(c++)
--(java)
--(bash)
+#-(c)
+#-(js)
+#-(c++)
+#-(java)
+#-(bash)
 
